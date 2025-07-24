@@ -1,0 +1,55 @@
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.exe.config
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.exe
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.pdb
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.AssemblyReference.cache
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form1.resources
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Properties.Resources.resources
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.GenerateResource.cache
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.CoreCompileInputs.cache
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.exe
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.pdb
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form2.resources
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form3.resources
+D:\New folder\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\QRIS.png
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.AssemblyReference.cache
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.exe.config
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.exe
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.pdb
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\QRIS.png
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.exe.config
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.exe
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.pdb
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form1.resources
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form2.resources
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form3.resources
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Properties.Resources.resources
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.GenerateResource.cache
+D:\sdfg\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\QRIS.png
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.exe.config
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.exe
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.pdb
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.exe.config
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form1.resources
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form2.resources
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form3.resources
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Properties.Resources.resources
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.exe
+C:\Users\hp\Downloads\sghdgshgf\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.pdb
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\QRIS.png
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.exe.config
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.exe
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.AssemblyReference.cache
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.exe.config
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form1.resources
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form2.resources
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Form3.resources
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi_pemesanan_baju.Properties.Resources.resources
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.GenerateResource.cache
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.csproj.CoreCompileInputs.cache
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.exe
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\obj\Debug\Aplikassi pemesanan baju.pdb
+D:\Folder buat tugas semster 2\sghdgshgf\Aplikassi pemesanan baju\Aplikassi pemesanan baju\bin\Debug\Aplikassi pemesanan baju.pdb
